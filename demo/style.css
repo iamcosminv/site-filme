@@ -1,0 +1,10 @@
+body {
+    min-height: 100dvh;
+    display: flex;
+    flex-direction: column;
+}
+
+.site-footer {
+    margin-top: auto;
+    background-color: #ccc;
+}
